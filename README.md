@@ -53,7 +53,7 @@ To set up the development environment:
 
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/fabric_logger.git
+git clone https://github.com/phrkrish/fabric_logger.git
 cd fabric_logger
 ```
 
